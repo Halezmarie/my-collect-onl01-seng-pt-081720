@@ -21,4 +21,4 @@ def my_collect(array)
   collection
 end
 my_collect(["ruby", "javascript", "python"," objective-c"]) { |lang| lang.upcase}
-
+#collection has all 
